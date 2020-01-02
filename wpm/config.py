@@ -56,7 +56,7 @@ DEFAULTS = {
         "correct": (int_tuple, (240, 233), ""),
         "incorrect": (int_tuple, (197, 52), ""),
         "prompt": (int_tuple, (244, 233), ""),
-        "quote": (int_tuple, (6, 7), ""),
+        "quote": (int_tuple, (195, 233), ""),
         "score": (int_tuple, (230, 197), ""),
         "top_bar": (int_tuple, (51, 24), ""),
     },
