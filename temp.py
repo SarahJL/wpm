@@ -3,7 +3,6 @@ import curses
 def main(stdscr):
     curses.start_color()
     curses.use_default_colors()
-    stdscr.addstr('colours available: {}'.format(len(curses.COLORS)))
     for i in range(0, curses.COLORS):
         curses.init_pair(i + 1, i, -1)
     try:
