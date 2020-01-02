@@ -32,7 +32,7 @@ class Screen(object):
     COLOR_CORRECT = 3
     COLOR_HISCORE = 4
     COLOR_INCORRECT = 5
-    COLOR_PROMPT = 0
+    COLOR_PROMPT = 6
     COLOR_QUOTE = 7
     COLOR_STATUS = 8
 
