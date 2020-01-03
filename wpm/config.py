@@ -52,7 +52,7 @@ DEFAULTS = {
 
     "xterm256colors": {
         "author": (int_tuple, (240, 233), ""),
-        "background": (int, 160, ""),
+        # "background": (int, 160, ""),
         "correct": (int_tuple, (240, 233), ""),
         "incorrect": (int_tuple, (197, 52), ""),
         "prompt": (int_tuple, (244, 233), ""),
